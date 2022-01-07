@@ -1,6 +1,6 @@
 # RegionCodeDictionary
 
-It's a list of transport codes of regions.<br>
+It's a list of transport codes of Russian regions.<br>
 In that you can:
  - search for a code number by its name,
  - search for a region name by its code,
